@@ -10,4 +10,4 @@ Okay we covered the rules, but I want to ask of you one thing. In your fork, rec
 
 ![alt text](https://github.com/MarkizCar20/workshop_homework/blob/main/structure.png?raw=true)
 
-Good luck!
+Once you've created this structure, take a screenshot and sent it via PullRequest. I'll add all the screenshots to the repo :D
